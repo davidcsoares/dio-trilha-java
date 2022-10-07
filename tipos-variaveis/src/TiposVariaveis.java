@@ -23,6 +23,7 @@ public class TiposVariaveis {
         System.out.println(quantidadePopulacaoBrasil);
         System.out.println(latitude);
         System.out.println(longitute);
+
         
 
     }
