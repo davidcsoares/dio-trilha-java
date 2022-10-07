@@ -1,9 +1,12 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
 
-        //Os tipos primitivos são int, byte, short, long, float e double
-        //Sendo int, byte, short
+        /*Os tipos primitivos são int, byte, short, long, float e double.
+        Sendo int, byte, shorte long para numeros inteiros.
+        E float e double para numeros reais*/
+
         //Exemplos de da estrutura da variavel 
+
         int idade;
         int anoDeEstudo = 2022;
         double salarioMinimo = 2500.00;
