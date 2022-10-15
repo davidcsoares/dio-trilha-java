@@ -28,7 +28,7 @@ public class ArrayMultidimencional {
         for (int i = 0; i < M.length; i++) {
             //coluna
             for (int j = 0; j < M[i].length; j++) {
-                M[i][j] = random.nextInt(int j:9);
+                M[i][j] = random.nextInt();
             }
 
         }
